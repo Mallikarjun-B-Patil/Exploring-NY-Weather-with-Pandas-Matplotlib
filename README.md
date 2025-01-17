@@ -11,7 +11,7 @@ The goal is to clean, analyze, and visualize the dataset to derive insights, ide
 - **Insights and Analysis:** Analyze the weather patterns and trends in New York, providing insights into climate and weather anomalies.
 - **Datasets:** Weather data for New York (ensure you have access to the data in CSV or another format).
 
-## 📸 Dashboard Snapshot
+## 📸 Visualization Snapshot
 ![Superstore Dashboard](heat_map.png)
 
 ## 🚀 How to Explore

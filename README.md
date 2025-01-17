@@ -14,7 +14,8 @@ The goal is to clean, analyze, and visualize the dataset to derive insights, ide
 ## 📸 Visualization Snapshot
 ![Superstore Dashboard](heat_map.png)
 
+
 ## 🚀 How to Explore
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Mallikarjun-B-Patil/Exploring-NY-Weather-with-Pandas-Matplotlib.git
+   https://github.com/Mallikarjun-B-Patil/Exploring-NY-Weather-with-Pandas-Matplotlib.git

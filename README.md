@@ -18,4 +18,4 @@ The goal is to clean, analyze, and visualize the dataset to derive insights, ide
 ## 🚀 How to Explore
 1. Clone this repository:
    ```bash
-   https://github.com/Mallikarjun-B-Patil/Exploring-NY-Weather-with-Pandas-Matplotlib.git
+   git clone https://github.com/Mallikarjun-B-Patil/Exploring-NY-Weather-with-Pandas-Matplotlib.git
